@@ -1,6 +1,22 @@
 # MEAN-posts
 similar to insta
 
+## Installations
+Client:<br>
+ng add @angular/material<br>
+Server:<br>
+npm install --save express<br>
+npm install --save-dev nodemon<br>
+npm install --save body-parser<br>
+npm install --save mongoose<br>
+npm install --save multer<br>
+Add  "start:server": "nodemon server.js" in package.json under e2e<br>
+
+## Run
+Client: ng serve<br>
+Server: npm run start:server<br>
+
+
 # MeanCourse
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.3.
