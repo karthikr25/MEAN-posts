@@ -1,5 +1,5 @@
 # MEAN-posts
-similar to insta
+This a website where users can post images along with titles and comment on them.
 
 ## Installations
 Client:<br>
